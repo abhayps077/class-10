@@ -8,86 +8,86 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/mathematics/ch01.pdf",
+                             "title":  "Real Numbers",
+                             "pdf":  "/pdfs/class10/mathematics/real-numbers.pdf",
                              "sourceFile":  "jemh101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/mathematics/ch02.pdf",
+                             "title":  "Polynomials",
+                             "pdf":  "/pdfs/class10/mathematics/polynomials.pdf",
                              "sourceFile":  "jemh102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/mathematics/ch03.pdf",
+                             "title":  "Pair of Linear Equations in Two Variables",
+                             "pdf":  "/pdfs/class10/mathematics/pair-of-linear-equations-in-two-variables.pdf",
                              "sourceFile":  "jemh103.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/mathematics/ch04.pdf",
+                             "title":  "Quadratic Equations",
+                             "pdf":  "/pdfs/class10/mathematics/quadratic-equations.pdf",
                              "sourceFile":  "jemh104.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/mathematics/ch05.pdf",
+                             "title":  "Arithmetic Progressions",
+                             "pdf":  "/pdfs/class10/mathematics/arithmetic-progressions.pdf",
                              "sourceFile":  "jemh105.pdf"
                          },
                          {
                              "number":  6,
-                             "title":  "Chapter 6",
-                             "pdf":  "/pdfs/class10/mathematics/ch06.pdf",
+                             "title":  "Triangles",
+                             "pdf":  "/pdfs/class10/mathematics/triangles.pdf",
                              "sourceFile":  "jemh106.pdf"
                          },
                          {
                              "number":  7,
-                             "title":  "Chapter 7",
-                             "pdf":  "/pdfs/class10/mathematics/ch07.pdf",
+                             "title":  "Coordinate Geometry",
+                             "pdf":  "/pdfs/class10/mathematics/coordinate-geometry.pdf",
                              "sourceFile":  "jemh107.pdf"
                          },
                          {
                              "number":  8,
-                             "title":  "Chapter 8",
-                             "pdf":  "/pdfs/class10/mathematics/ch08.pdf",
+                             "title":  "Introduction to Trigonometry",
+                             "pdf":  "/pdfs/class10/mathematics/introduction-to-trigonometry.pdf",
                              "sourceFile":  "jemh108.pdf"
                          },
                          {
                              "number":  9,
-                             "title":  "Chapter 9",
-                             "pdf":  "/pdfs/class10/mathematics/ch09.pdf",
+                             "title":  "Some Applications of Trigonometry",
+                             "pdf":  "/pdfs/class10/mathematics/some-applications-of-trigonometry.pdf",
                              "sourceFile":  "jemh109.pdf"
                          },
                          {
                              "number":  10,
-                             "title":  "Chapter 10",
-                             "pdf":  "/pdfs/class10/mathematics/ch10.pdf",
+                             "title":  "Circles",
+                             "pdf":  "/pdfs/class10/mathematics/circles.pdf",
                              "sourceFile":  "jemh110.pdf"
                          },
                          {
                              "number":  11,
-                             "title":  "Chapter 11",
-                             "pdf":  "/pdfs/class10/mathematics/ch11.pdf",
+                             "title":  "Areas Related to Circles",
+                             "pdf":  "/pdfs/class10/mathematics/areas-related-to-circles.pdf",
                              "sourceFile":  "jemh111.pdf"
                          },
                          {
                              "number":  12,
-                             "title":  "Chapter 12",
-                             "pdf":  "/pdfs/class10/mathematics/ch12.pdf",
+                             "title":  "Surface Areas and Volumes",
+                             "pdf":  "/pdfs/class10/mathematics/surface-areas-and-volumes.pdf",
                              "sourceFile":  "jemh112.pdf"
                          },
                          {
                              "number":  13,
-                             "title":  "Chapter 13",
-                             "pdf":  "/pdfs/class10/mathematics/ch13.pdf",
+                             "title":  "Statistics",
+                             "pdf":  "/pdfs/class10/mathematics/statistics.pdf",
                              "sourceFile":  "jemh113.pdf"
                          },
                          {
                              "number":  14,
-                             "title":  "Chapter 14",
-                             "pdf":  "/pdfs/class10/mathematics/ch14.pdf",
+                             "title":  "Probability",
+                             "pdf":  "/pdfs/class10/mathematics/probability.pdf",
                              "sourceFile":  "jemh114.pdf"
                          }
                      ]
@@ -101,80 +101,80 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/science/ch01.pdf",
+                             "title":  "Chemical Reactions and Equations",
+                             "pdf":  "/pdfs/class10/science/chemical-reactions-and-equations.pdf",
                              "sourceFile":  "jesc101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/science/ch02.pdf",
+                             "title":  "Acids, Bases and Salts",
+                             "pdf":  "/pdfs/class10/science/acids-bases-and-salts.pdf",
                              "sourceFile":  "jesc102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/science/ch03.pdf",
+                             "title":  "Metals and Non-metals",
+                             "pdf":  "/pdfs/class10/science/metals-and-non-metals.pdf",
                              "sourceFile":  "jesc103.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/science/ch04.pdf",
+                             "title":  "Carbon and its Compounds",
+                             "pdf":  "/pdfs/class10/science/carbon-and-its-compounds.pdf",
                              "sourceFile":  "jesc104.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/science/ch05.pdf",
+                             "title":  "Life Processes",
+                             "pdf":  "/pdfs/class10/science/life-processes.pdf",
                              "sourceFile":  "jesc105.pdf"
                          },
                          {
                              "number":  6,
-                             "title":  "Chapter 6",
-                             "pdf":  "/pdfs/class10/science/ch06.pdf",
+                             "title":  "Control and Coordination",
+                             "pdf":  "/pdfs/class10/science/control-and-coordination.pdf",
                              "sourceFile":  "jesc106.pdf"
                          },
                          {
                              "number":  7,
-                             "title":  "Chapter 7",
-                             "pdf":  "/pdfs/class10/science/ch07.pdf",
+                             "title":  "How do Organisms Reproduce?",
+                             "pdf":  "/pdfs/class10/science/how-do-organisms-reproduce.pdf",
                              "sourceFile":  "jesc107.pdf"
                          },
                          {
                              "number":  8,
-                             "title":  "Chapter 8",
-                             "pdf":  "/pdfs/class10/science/ch08.pdf",
+                             "title":  "Heredity",
+                             "pdf":  "/pdfs/class10/science/heredity.pdf",
                              "sourceFile":  "jesc108.pdf"
                          },
                          {
                              "number":  9,
-                             "title":  "Chapter 9",
-                             "pdf":  "/pdfs/class10/science/ch09.pdf",
+                             "title":  "Light - Reflection and Refraction",
+                             "pdf":  "/pdfs/class10/science/light-reflection-and-refraction.pdf",
                              "sourceFile":  "jesc109.pdf"
                          },
                          {
                              "number":  10,
-                             "title":  "Chapter 10",
-                             "pdf":  "/pdfs/class10/science/ch10.pdf",
+                             "title":  "The Human Eye and the Colourful World",
+                             "pdf":  "/pdfs/class10/science/the-human-eye-and-the-colourful-world.pdf",
                              "sourceFile":  "jesc110.pdf"
                          },
                          {
                              "number":  11,
-                             "title":  "Chapter 11",
-                             "pdf":  "/pdfs/class10/science/ch11.pdf",
+                             "title":  "Electricity",
+                             "pdf":  "/pdfs/class10/science/electricity.pdf",
                              "sourceFile":  "jesc111.pdf"
                          },
                          {
                              "number":  12,
-                             "title":  "Chapter 12",
-                             "pdf":  "/pdfs/class10/science/ch12.pdf",
+                             "title":  "Magnetic Effects of Electric Current",
+                             "pdf":  "/pdfs/class10/science/magnetic-effects-of-electric-current.pdf",
                              "sourceFile":  "jesc112.pdf"
                          },
                          {
                              "number":  13,
-                             "title":  "Chapter 13",
-                             "pdf":  "/pdfs/class10/science/ch13.pdf",
+                             "title":  "Our Environment",
+                             "pdf":  "/pdfs/class10/science/our-environment.pdf",
                              "sourceFile":  "jesc113.pdf"
                          }
                      ]
@@ -188,32 +188,32 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/history/ch01.pdf",
+                             "title":  "Nationalism in Europe",
+                             "pdf":  "/pdfs/class10/history/nationalism-in-europe.pdf",
                              "sourceFile":  "jess301.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/history/ch02.pdf",
+                             "title":  "Nationalism in India",
+                             "pdf":  "/pdfs/class10/history/nationalism-in-india.pdf",
                              "sourceFile":  "jess302.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/history/ch03.pdf",
+                             "title":  "The Making of a Global World",
+                             "pdf":  "/pdfs/class10/history/the-making-of-a-global-world.pdf",
                              "sourceFile":  "jess303.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/history/ch04.pdf",
+                             "title":  "The Age of Industrialisation",
+                             "pdf":  "/pdfs/class10/history/the-age-of-industrialisation.pdf",
                              "sourceFile":  "jess304.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/history/ch05.pdf",
+                             "title":  "Print Culture and the Modern World",
+                             "pdf":  "/pdfs/class10/history/print-culture-and-the-modern-world.pdf",
                              "sourceFile":  "jess305.pdf"
                          }
                      ]
@@ -227,44 +227,44 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/geography/ch01.pdf",
+                             "title":  "Resources and Development",
+                             "pdf":  "/pdfs/class10/geography/resources-and-development.pdf",
                              "sourceFile":  "jess101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/geography/ch02.pdf",
+                             "title":  "Forest and Wildlife Resources",
+                             "pdf":  "/pdfs/class10/geography/forest-and-wildlife-resources.pdf",
                              "sourceFile":  "jess102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/geography/ch03.pdf",
+                             "title":  "Water Resources",
+                             "pdf":  "/pdfs/class10/geography/water-resources.pdf",
                              "sourceFile":  "jess103.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/geography/ch04.pdf",
+                             "title":  "Agriculture",
+                             "pdf":  "/pdfs/class10/geography/agriculture.pdf",
                              "sourceFile":  "jess104.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/geography/ch05.pdf",
+                             "title":  "Minerals and Energy Resources",
+                             "pdf":  "/pdfs/class10/geography/minerals-and-energy-resources.pdf",
                              "sourceFile":  "jess105.pdf"
                          },
                          {
                              "number":  6,
-                             "title":  "Chapter 6",
-                             "pdf":  "/pdfs/class10/geography/ch06.pdf",
+                             "title":  "Manufacturing Industries",
+                             "pdf":  "/pdfs/class10/geography/manufacturing-industries.pdf",
                              "sourceFile":  "jess106.pdf"
                          },
                          {
                              "number":  7,
-                             "title":  "Chapter 7",
-                             "pdf":  "/pdfs/class10/geography/ch07.pdf",
+                             "title":  "Lifelines of National Economy",
+                             "pdf":  "/pdfs/class10/geography/lifelines-of-national-economy.pdf",
                              "sourceFile":  "jess107.pdf"
                          }
                      ]
@@ -278,32 +278,32 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/civics/ch01.pdf",
+                             "title":  "Power-sharing",
+                             "pdf":  "/pdfs/class10/civics/power-sharing.pdf",
                              "sourceFile":  "jess401.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/civics/ch02.pdf",
+                             "title":  "Federalism",
+                             "pdf":  "/pdfs/class10/civics/federalism.pdf",
                              "sourceFile":  "jess402.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/civics/ch03.pdf",
+                             "title":  "Gender, Religion and Caste",
+                             "pdf":  "/pdfs/class10/civics/gender-religion-and-caste.pdf",
                              "sourceFile":  "jess403.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/civics/ch04.pdf",
+                             "title":  "Political Parties",
+                             "pdf":  "/pdfs/class10/civics/political-parties.pdf",
                              "sourceFile":  "jess404.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/civics/ch05.pdf",
+                             "title":  "Outcomes of Democracy",
+                             "pdf":  "/pdfs/class10/civics/outcomes-of-democracy.pdf",
                              "sourceFile":  "jess405.pdf"
                          }
                      ]
@@ -317,32 +317,32 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/economics/ch01.pdf",
+                             "title":  "Development",
+                             "pdf":  "/pdfs/class10/economics/development.pdf",
                              "sourceFile":  "jess201.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/economics/ch02.pdf",
+                             "title":  "Sectors of the Indian Economy",
+                             "pdf":  "/pdfs/class10/economics/sectors-of-the-indian-economy.pdf",
                              "sourceFile":  "jess202.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/economics/ch03.pdf",
+                             "title":  "Money and Credit",
+                             "pdf":  "/pdfs/class10/economics/money-and-credit.pdf",
                              "sourceFile":  "jess203.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/economics/ch04.pdf",
+                             "title":  "Globalisation and the Indian Economy",
+                             "pdf":  "/pdfs/class10/economics/globalisation-and-the-indian-economy.pdf",
                              "sourceFile":  "jess204.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/economics/ch05.pdf",
+                             "title":  "Consumer Rights",
+                             "pdf":  "/pdfs/class10/economics/consumer-rights.pdf",
                              "sourceFile":  "jess205.pdf"
                          }
                      ]
@@ -356,56 +356,56 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/first-flight/ch01.pdf",
+                             "title":  "A Letter to God",
+                             "pdf":  "/pdfs/class10/first-flight/a-letter-to-god.pdf",
                              "sourceFile":  "jeff101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/first-flight/ch02.pdf",
+                             "title":  "Nelson Mandela: Long Walk to Freedom",
+                             "pdf":  "/pdfs/class10/first-flight/nelson-mandela-long-walk-to-freedom.pdf",
                              "sourceFile":  "jeff102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/first-flight/ch03.pdf",
+                             "title":  "Two Stories about Flying",
+                             "pdf":  "/pdfs/class10/first-flight/two-stories-about-flying.pdf",
                              "sourceFile":  "jeff103.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/first-flight/ch04.pdf",
+                             "title":  "From the Diary of Anne Frank",
+                             "pdf":  "/pdfs/class10/first-flight/from-the-diary-of-anne-frank.pdf",
                              "sourceFile":  "jeff104.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/first-flight/ch05.pdf",
+                             "title":  "Glimpses of India",
+                             "pdf":  "/pdfs/class10/first-flight/glimpses-of-india.pdf",
                              "sourceFile":  "jeff105.pdf"
                          },
                          {
                              "number":  6,
-                             "title":  "Chapter 6",
-                             "pdf":  "/pdfs/class10/first-flight/ch06.pdf",
+                             "title":  "Mijbil the Otter",
+                             "pdf":  "/pdfs/class10/first-flight/mijbil-the-otter.pdf",
                              "sourceFile":  "jeff106.pdf"
                          },
                          {
                              "number":  7,
-                             "title":  "Chapter 7",
-                             "pdf":  "/pdfs/class10/first-flight/ch07.pdf",
+                             "title":  "Madam Rides the Bus",
+                             "pdf":  "/pdfs/class10/first-flight/madam-rides-the-bus.pdf",
                              "sourceFile":  "jeff107.pdf"
                          },
                          {
                              "number":  8,
-                             "title":  "Chapter 8",
-                             "pdf":  "/pdfs/class10/first-flight/ch08.pdf",
+                             "title":  "The Sermon at Benares",
+                             "pdf":  "/pdfs/class10/first-flight/the-sermon-at-benares.pdf",
                              "sourceFile":  "jeff108.pdf"
                          },
                          {
                              "number":  9,
-                             "title":  "Chapter 9",
-                             "pdf":  "/pdfs/class10/first-flight/ch09.pdf",
+                             "title":  "The Proposal",
+                             "pdf":  "/pdfs/class10/first-flight/the-proposal.pdf",
                              "sourceFile":  "jeff109.pdf"
                          }
                      ]
@@ -419,56 +419,56 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch01.pdf",
+                             "title":  "A Triumph of Surgery",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/a-triumph-of-surgery.pdf",
                              "sourceFile":  "jefp101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch02.pdf",
+                             "title":  "The Thief's Story",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/the-thiefs-story.pdf",
                              "sourceFile":  "jefp102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch03.pdf",
+                             "title":  "The Midnight Visitor",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/the-midnight-visitor.pdf",
                              "sourceFile":  "jefp103.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch04.pdf",
+                             "title":  "A Question of Trust",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/a-question-of-trust.pdf",
                              "sourceFile":  "jefp104.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch05.pdf",
+                             "title":  "Footprints Without Feet",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/footprints-without-feet.pdf",
                              "sourceFile":  "jefp105.pdf"
                          },
                          {
                              "number":  6,
-                             "title":  "Chapter 6",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch06.pdf",
+                             "title":  "The Making of a Scientist",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/the-making-of-a-scientist.pdf",
                              "sourceFile":  "jefp106.pdf"
                          },
                          {
                              "number":  7,
-                             "title":  "Chapter 7",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch07.pdf",
+                             "title":  "The Necklace",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/the-necklace.pdf",
                              "sourceFile":  "jefp107.pdf"
                          },
                          {
                              "number":  8,
-                             "title":  "Chapter 8",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch08.pdf",
+                             "title":  "Bholi",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/bholi.pdf",
                              "sourceFile":  "jefp108.pdf"
                          },
                          {
                              "number":  9,
-                             "title":  "Chapter 9",
-                             "pdf":  "/pdfs/class10/footprints-without-feet/ch09.pdf",
+                             "title":  "The Book That Saved the Earth",
+                             "pdf":  "/pdfs/class10/footprints-without-feet/the-book-that-saved-the-earth.pdf",
                              "sourceFile":  "jefp109.pdf"
                          }
                      ]
@@ -482,74 +482,74 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch01.pdf",
+                             "title":  "सूरदास के पद",
+                             "pdf":  "/pdfs/class10/kshitij-2/surdas-ke-pad.pdf",
                              "sourceFile":  "jhks101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch02.pdf",
+                             "title":  "राम-लक्ष्मण-परशुराम संवाद",
+                             "pdf":  "/pdfs/class10/kshitij-2/ram-lakshman-parshuram-samvad.pdf",
                              "sourceFile":  "jhks102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch03.pdf",
+                             "title":  "सवैया और कवित्त",
+                             "pdf":  "/pdfs/class10/kshitij-2/savaiya-aur-kavitt.pdf",
                              "sourceFile":  "jhks103.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch04.pdf",
+                             "title":  "आत्मकथ्य",
+                             "pdf":  "/pdfs/class10/kshitij-2/aatmakathya.pdf",
                              "sourceFile":  "jhks104.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch05.pdf",
+                             "title":  "उत्साह और अट नहीं रही है",
+                             "pdf":  "/pdfs/class10/kshitij-2/utsah-aur-at-nahi-rahi-hai.pdf",
                              "sourceFile":  "jhks105.pdf"
                          },
                          {
                              "number":  6,
-                             "title":  "Chapter 6",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch06.pdf",
+                             "title":  "यह दंतुरित मुस्कान और फसल",
+                             "pdf":  "/pdfs/class10/kshitij-2/yah-danturit-muskan-aur-fasal.pdf",
                              "sourceFile":  "jhks106.pdf"
                          },
                          {
                              "number":  7,
-                             "title":  "Chapter 7",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch07.pdf",
+                             "title":  "छाया मत छूना",
+                             "pdf":  "/pdfs/class10/kshitij-2/chhaya-mat-chhoona.pdf",
                              "sourceFile":  "jhks107.pdf"
                          },
                          {
                              "number":  8,
-                             "title":  "Chapter 8",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch08.pdf",
+                             "title":  "कन्यादान",
+                             "pdf":  "/pdfs/class10/kshitij-2/kanyadaan.pdf",
                              "sourceFile":  "jhks108.pdf"
                          },
                          {
                              "number":  9,
-                             "title":  "Chapter 9",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch09.pdf",
+                             "title":  "संगतकार",
+                             "pdf":  "/pdfs/class10/kshitij-2/sangatkar.pdf",
                              "sourceFile":  "jhks109.pdf"
                          },
                          {
                              "number":  10,
-                             "title":  "Chapter 10",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch10.pdf",
+                             "title":  "नेताजी का चश्मा",
+                             "pdf":  "/pdfs/class10/kshitij-2/netaji-ka-chashma.pdf",
                              "sourceFile":  "jhks110.pdf"
                          },
                          {
                              "number":  11,
-                             "title":  "Chapter 11",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch11.pdf",
+                             "title":  "बालगोबिन भगत",
+                             "pdf":  "/pdfs/class10/kshitij-2/balgobin-bhagat.pdf",
                              "sourceFile":  "jhks111.pdf"
                          },
                          {
                              "number":  12,
-                             "title":  "Chapter 12",
-                             "pdf":  "/pdfs/class10/kshitij-2/ch12.pdf",
+                             "title":  "लखनवी अंदाज",
+                             "pdf":  "/pdfs/class10/kshitij-2/lakhnavi-andaz.pdf",
                              "sourceFile":  "jhks112.pdf"
                          }
                      ]
@@ -563,20 +563,20 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/kritika-2/ch01.pdf",
+                             "title":  "माता का आँचल",
+                             "pdf":  "/pdfs/class10/kritika-2/mata-ka-aanchal.pdf",
                              "sourceFile":  "jhkr101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/kritika-2/ch02.pdf",
+                             "title":  "जॉर्ज पंचम की नाक",
+                             "pdf":  "/pdfs/class10/kritika-2/george-pancham-ki-naak.pdf",
                              "sourceFile":  "jhkr102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/kritika-2/ch03.pdf",
+                             "title":  "साना-साना हाथ जोड़ि",
+                             "pdf":  "/pdfs/class10/kritika-2/sana-sana-haath-jodi.pdf",
                              "sourceFile":  "jhkr103.pdf"
                          }
                      ]
@@ -590,62 +590,62 @@
         "chapters":  [
                          {
                              "number":  1,
-                             "title":  "Chapter 1",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch01.pdf",
+                             "title":  "शुचिपर्यावरणम्",
+                             "pdf":  "/pdfs/class10/shemushi-2/shuchi-paryavaranam.pdf",
                              "sourceFile":  "jhsk101.pdf"
                          },
                          {
                              "number":  2,
-                             "title":  "Chapter 2",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch02.pdf",
+                             "title":  "बुद्धिर्बलवती सदा",
+                             "pdf":  "/pdfs/class10/shemushi-2/buddhir-balavati-sada.pdf",
                              "sourceFile":  "jhsk102.pdf"
                          },
                          {
                              "number":  3,
-                             "title":  "Chapter 3",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch03.pdf",
+                             "title":  "व्यायामः सर्वदा पथ्यः",
+                             "pdf":  "/pdfs/class10/shemushi-2/vyayamah-sarvada-pathyah.pdf",
                              "sourceFile":  "jhsk103.pdf"
                          },
                          {
                              "number":  4,
-                             "title":  "Chapter 4",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch04.pdf",
+                             "title":  "शिशुलालनम्",
+                             "pdf":  "/pdfs/class10/shemushi-2/shishulalanam.pdf",
                              "sourceFile":  "jhsk104.pdf"
                          },
                          {
                              "number":  5,
-                             "title":  "Chapter 5",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch05.pdf",
+                             "title":  "जननी तुल्यवत्सला",
+                             "pdf":  "/pdfs/class10/shemushi-2/janani-tulyavatsala.pdf",
                              "sourceFile":  "jhsk105.pdf"
                          },
                          {
                              "number":  6,
-                             "title":  "Chapter 6",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch06.pdf",
+                             "title":  "सुभाषितानि",
+                             "pdf":  "/pdfs/class10/shemushi-2/subhashitani.pdf",
                              "sourceFile":  "jhsk106.pdf"
                          },
                          {
                              "number":  7,
-                             "title":  "Chapter 7",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch07.pdf",
+                             "title":  "सौहार्दं प्रकृतेः शोभा",
+                             "pdf":  "/pdfs/class10/shemushi-2/sauhardam-prakruteh-shobha.pdf",
                              "sourceFile":  "jhsk107.pdf"
                          },
                          {
                              "number":  8,
-                             "title":  "Chapter 8",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch08.pdf",
+                             "title":  "विचित्रः साक्षी",
+                             "pdf":  "/pdfs/class10/shemushi-2/vichitrah-sakshi.pdf",
                              "sourceFile":  "jhsk108.pdf"
                          },
                          {
                              "number":  9,
-                             "title":  "Chapter 9",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch09.pdf",
+                             "title":  "सूक्तयः",
+                             "pdf":  "/pdfs/class10/shemushi-2/suktayah.pdf",
                              "sourceFile":  "jhsk109.pdf"
                          },
                          {
                              "number":  10,
-                             "title":  "Chapter 10",
-                             "pdf":  "/pdfs/class10/shemushi-2/ch10.pdf",
+                             "title":  "भूकम्पविभीषिका",
+                             "pdf":  "/pdfs/class10/shemushi-2/bhukampa-vibhishika.pdf",
                              "sourceFile":  "jhsk110.pdf"
                          }
                      ]
